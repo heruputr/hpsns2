@@ -1,6 +1,6 @@
 LanjutPlant = false
 ListPlant = {"", ""}
-SpecialItem = {4562, 880, 881}
+SpecialItem = {4562, 880, 881, 242}
 minSpec = 1
 WorldSpec = "PACKRUHENY"
 ID_AcuanDrop_Spec = 16
