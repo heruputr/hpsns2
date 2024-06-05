@@ -1,9 +1,10 @@
 LanjutPlant = false
 ListPlant = {"", ""}
-SpecialItem = {4562, 880, 881, 242}
+SpecialItem = {2382, 2322, 2326, 2328, 2320, 2324, 2336, 2340, 2338, 2332, 2334, 2296, 2292, 2294, 2298, 2300, 2314, 2312, 2310, 2308, 2316}
 minSpec = 1
-WorldSpec = "TERIGURUHE"
-ID_AcuanDrop_Spec = 2811
+WorldSpec = "PACKRUHENY"
+idWorldSpec = "HPSNS"
+ID_AcuanDrop_Spec = 16
 DurasiWorldPNB = 90
 WorldWL = {"WEELRUHE"}
 TargetLevel = 126
