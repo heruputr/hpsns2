@@ -3,7 +3,6 @@ ListPlant = {"", ""}
 SpecialItem = {7164, 5036}
 minSpec = 50
 WorldSpec = "DUEEFRUHE"
-idWorldSpec = "HPSNS"
 ID_AcuanDrop_Spec = 16
 DurasiWorldPNB = 90
 WorldWL = {"WEELRUHE"}
