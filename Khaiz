@@ -3,7 +3,6 @@ ListPlant = {"", ""}
 SpecialItem = {4562}
 minSpec = 1
 WorldSpec = "PACKRUHENY"
-ID_AcuanDrop_Spec = 2811
 DurasiWorldPNB = 90
 WorldWL = {"WEELRUHE"}
 TargetLevel = 126
