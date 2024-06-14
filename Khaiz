@@ -1,8 +1,9 @@
 LanjutPlant = false
 ListPlant = {"", ""}
-SpecialItem = {}
+SpecialItem = {4562}
 minSpec = 1
-WorldSpec = "PACKRUHENY"
+WorldSpec = "TERIGURUHE"
+idWorldSpec = "D0NT"
 ID_AcuanDrop_Spec = 16
 DurasiWorldPNB = 90
 WorldWL = {"WEELRUHE"}
